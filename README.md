@@ -8,7 +8,9 @@
 
 **Institution:** Escuela Industrial Domingo Faustino Sarmiento (EIDFS)
 
-**Author:** Juan Manuel Zumel González
+**Author & Project Lead:** Juan Manuel Zumel González
+
+**Technical Contributor (prosthesis fabrication):** José Ignacio Amato Blanco
 
 **Program:** Técnico Electrónico — 7th Year
 
