@@ -1,7 +1,6 @@
 # Bionic Hand For All
 
-A functional, low-cost EMG-controlled bionic hand prosthesis —
-designed and built by an 18-year-old electronics student in Argentina.
+A functional, low-cost EMG-controlled bionic hand prosthesis.
 
 > ⚠️ **Legal Notice:** By downloading, cloning, forking or using
 > any file in this repository, you automatically accept the terms
@@ -23,8 +22,8 @@ This project is my answer to that.
 
 A fully functional bionic hand prosthesis controlled by
 electromyographic (EMG) signals, built for under $200 USD,
-designed to be replicated by anyone with access to a 3D printer
-and basic electronics tools.
+designed to be replicated by anyone with access to a 3D printer,
+basic electronics tools and some lathe machining.
 
 The finished prosthesis will be donated free of charge to a person
 in need.
@@ -41,6 +40,22 @@ in need.
 | Structure | 3D printed PETG |
 | Grip modes | 6 predefined + user-customizable |
 
+### Manufacturing Methods
+
+This project combines digital fabrication with traditional machining:
+
+- **3D printing (FDM)** — Main structural components in PETG
+- **Lathe machining** — Custom steel pins and rings for finger
+  joints, manufactured at the school's workshop
+- **PCB fabrication** — Planned via CNC laser engraving
+- **Hardware** — E-clip retainers for joint assembly,
+  elastic fabric straps for arm attachment
+
+### Target User
+
+Designed for **transradial upper limb amputees**
+(below-elbow amputation).
+
 ---
 
 ## Project Status
@@ -49,7 +64,7 @@ in need.
 |---|---|---|
 | 1 | Planning & organization | ✅ Complete |
 | 2 | Specialist consultation & patient selection | 🔵 In progress |
-| 3 | PCB design & component sourcing | ⏳ Upcoming |
+| 3 | PCB design & component sourcing | 🔵 In progress |
 | 4 | 3D modeling & initial firmware | ⏳ Upcoming |
 | 5 | Prototype testing & iteration | ⏳ Upcoming |
 | 6 | Final assembly & programming | ⏳ Upcoming |
@@ -68,8 +83,7 @@ below the elbow struggle to open a bus window. I decided
 that accessible technology should mean exactly that — accessible.
 
 **Author & Project Lead:** Juan Manuel Zumel González
-**Technical Contributor (electronics):** José Ignacio Amato
-**Technical Contributor (firmware):** Gaspar Uñates
+**Technical Contributors:** José Ignacio Amato, Gaspar Uñates
 
 ---
 
