@@ -34,7 +34,7 @@ in need.
 
 | Subsystem | Solution |
 |---|---|
-| Signal capture | Custom INA128-based EMG circuit |
+| Signal capture | Custom AD620-based EMG circuit |
 | Processing | ESP32 microcontroller |
 | Actuation | MG996R servo motors + tendon system |
 | Structure | 3D printed PETG |
