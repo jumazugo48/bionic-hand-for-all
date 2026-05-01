@@ -25,6 +25,12 @@ Bionic Hand For All project.
 | `.kicad_pcb` | KiCad 7 (free) |
 | `.gbr` / Gerber | KiCad 7 or any Gerber viewer |
 
+## References
+
+The EMG signal conditioning stage is based on standard
+instrumentation amplifier topology for biopotential acquisition,
+implemented with the AD620. Circuit design by Juan Manuel Zumel González.
+
 ## License
 
 All files in this folder are licensed under
