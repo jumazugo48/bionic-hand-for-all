@@ -21,9 +21,8 @@ Bionic Hand For All project.
 
 | File type | Software |
 |---|---|
-| `.kicad_sch` | KiCad 7 (free) |
-| `.kicad_pcb` | KiCad 7 (free) |
-| `.gbr` / Gerber | KiCad 7 or any Gerber viewer |
+| `.sch` | Eagle 9.6.2 (free) |
+| `.brd` | Eagle 9.6.2 (free) |
 
 ## References
 
