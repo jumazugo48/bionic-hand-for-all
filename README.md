@@ -40,7 +40,7 @@ in need.
 |---|---|
 | Signal capture | Custom AD620-based EMG circuit |
 | Processing | ESP32 microcontroller |
-| Actuation | MG996R servo motors + tendon system |
+| Actuation | N20 motors + AS5600 encoders + tendon system |
 | Structure | 3D printed PETG |
 | Grip modes | 6 predefined + user-customizable |
 
