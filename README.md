@@ -106,6 +106,10 @@ that accessible technology should mean exactly that — accessible.
 ---
 
 ## License
-Firmware and software: [MIT License](LICENSE)
-Hardware designs and schematics: [CC BY-NC-SA 4.0](LICENSE-HARDWARE)
-Physical production terms: [PRODUCTION_TERMS.md](PRODUCTION_TERMS.md)
+
+| Component | License |
+|---|---|
+| Firmware and software | [MIT License](LICENSE) |
+| Hardware designs, schematics and 3D models | [CC BY-NC-SA 4.0](LICENSE-HARDWARE) |
+| Documentation, research and media | [CC BY 4.0](LICENSE-DOCS) |
+| Physical production terms | [PRODUCTION_TERMS.md](PRODUCTION_TERMS.md) |
