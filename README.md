@@ -6,6 +6,10 @@ A functional, low-cost EMG-controlled bionic hand prosthesis.
 > any file in this repository, you automatically accept the terms
 > in [PRODUCTION_TERMS.md](PRODUCTION_TERMS.md). Read before use.
 
+<p align="center">
+  <img src="media/logo_dark.png" alt="Bionic Hand For All" width="600"/>
+</p>
+
 ---
 
 ## The Problem
