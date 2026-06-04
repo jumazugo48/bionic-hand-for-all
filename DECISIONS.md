@@ -24,13 +24,13 @@ Además, el modelo ESP32 C3 MINI se destaca por su tamaño y su costo, resultand
 ---
 
 ## Decisión: Instrumentation amplifier selection.
-**Opciones evaluadas:** AD620, INA128, INA106
+**Opciones evaluadas:** AD620, INA128, INA106, INA821
 
-**Elegida:** AD620
+**Elegida:** INA821
 
-**Justificación:** Se eligió este IC principalmente por su bajo costo.
-También, al considerar diferentes vendedores en Aliexpress es el único amplificador de este tipo que ofrecía un vendedor que simultáneamente tenía amplificadores TL074.
-Además, al ver tanta información y circuitos para EMG personalizados basados en AD620 consulte su hoja de datos y determiné que era el ideal.
+**Justificación:** Se eligió este IC principalmente por su bajo costo y confiabilidad.
+También, al considerar diferentes vendedores en Aliexpress es el único amplificador de este tipo que ofrecía un vendedor que simultáneamente tenía amplificadores MCP6004.
+Además, comprobando la hoja de datos del componente encontré que cumplía precisamente lo que necesitaba para el circuito EMG.
 
 ---
 
@@ -62,11 +62,11 @@ Además, al ver tanta información y circuitos para EMG personalizados basados e
 ---
 
 ## Decisión: Joint joining element
-**Opciones evaluadas:** Ejes impresos 3d o incluidos en la misma figura, conjunto de seguro tipo e y perno mecanizado con torno, tornillos extensibles
+**Opciones evaluadas:** Ejes impresos 3d o incluidos en la misma figura, conjunto de seguro tipo e y perno mecanizado con torno, tornillos extensibles, clavos.
 
-**Elegida:** conjunto de seguro tipo e y perno mecanizado con torno
+**Elegida:** clavo introducido a presion y calor
 
-**Justificación:** Los ejes impresos en 3d fueron rápidamente descartados por su gran rose y desgaste. Se optó por esta solución debido a que puedo elegir específicamente las dimensiones que son necesarias, su bajo costo y porque los materiales necesarios están disponibles en tiendas locales.
+**Justificación:** Los ejes impresos en 3d fueron rápidamente descartados por su gran rose y desgaste. Se eligió esta opción por su bajo costo, gran disponibilidad y su facilidad de implementación.
 
 ---
 
