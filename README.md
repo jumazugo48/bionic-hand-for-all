@@ -69,7 +69,7 @@ Designed for **transradial upper limb amputees**
 | 1 | Planning & organization | ✅ Complete |
 | 2 | Specialist consultation & patient selection | 🔵 In progress |
 | 3 | PCB design | ⏳ Upcoming |
-| 4 | Component sourcing | 🔵 In progress |
+| 4 | Component sourcing | ✅ Complete |
 | 4 | 3D modeling | 🔵 In progress |
 | 6 | Initial firmware | 🔵 In progress |
 | 5 | Prototype testing & iteration | ⏳ Upcoming |
