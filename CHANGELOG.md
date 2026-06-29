@@ -10,6 +10,20 @@ Work in progress toward first functional prototype.
 
 ---
 
+## 2026-06-28
+### Added
+- Prototipo de circuito de captura EMG armado en protoboard
+  - Circuito basado en INA821 listo para pruebas de señal
+  - Pendiente: primera prueba con señal muscular real
+
+---
+
+## 2026-06-24
+### Milestone
+- Llegada de todos los componentes pedidos por AliExpress
+
+---
+
 ## 2026-06-01
 ### Added
 - Componentes de Aliexpress comprados.
